@@ -4,17 +4,17 @@
         "age": 39,
         "salary": "$210"
     
-    }
+    },
     
     {
         "name": "john",
         "age": 39,
         "salary": "$210"
     
-    }  {
+    } , {
         "name": "john",
         "age": 39,
         "salary": "$210"
     
     }
-}]
+]
